@@ -121,7 +121,7 @@ cd server
 npm install
 
 Create a .env file:
-MONGO_URI=mongodb+srv://itbin22110011_ishfak:ishh%40hcl2008178@soc.qkoklgf.mongodb.net/?appName=soc
+MONGO_URI= ADD URL
 PORT=5000
 API_KEY=APIKEY123456
 OAUTH_TOKEN=USER123TOKEN
