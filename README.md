@@ -121,7 +121,7 @@ cd server
 npm install
 
 Create a .env file:
-MONGO_URI=YOUR_MONGO_DB_URL
+MONGO_URI=mongodb+srv://itbin22110011_ishfak:ishh%40hcl2008178@soc.qkoklgf.mongodb.net/?appName=soc
 PORT=5000
 API_KEY=APIKEY123456
 OAUTH_TOKEN=USER123TOKEN
@@ -153,7 +153,7 @@ client/index.html
 Use Live Server or simply double-click to open in browser.
 
 ### ▶️ **How to Use**
-Step 1 — Enter Country Name
+Step 1 — Enter Country Name 
 
 Example: Sri Lanka
 
