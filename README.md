@@ -237,7 +237,7 @@ Fetches all saved records from database
 
 <img width="853" height="436" alt="image" src="https://github.com/user-attachments/assets/b6091a97-d815-4cf6-a71f-8e6772d30c9c" />
 
-<img width="858" height="439" alt="image" src="https://github.com/user-attachments/assets/d61bb31c-651f-431b-a7d6-d07a9ffc53ab" />
+<img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/135e3f97-9967-4088-bd99-b599392710bb" />
 
 
 
